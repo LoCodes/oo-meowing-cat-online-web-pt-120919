@@ -11,8 +11,3 @@ class Cat
     @meow
   end
 end
-
-Maru = Maru.new 
-Maru.name = "Maru"
-
-puts Maru.name 
