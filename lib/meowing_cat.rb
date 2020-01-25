@@ -12,5 +12,5 @@ class Cat
   end
 end
 
-maru = maru.new 
+Maru = Maru.new 
 maru.meow
