@@ -13,4 +13,6 @@ class Cat
 end
 
 Maru = Maru.new 
-maru.meow
+Maru.name = "Maru"
+
+puts Maru.name 
